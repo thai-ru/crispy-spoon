@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "665DB5F6-C197-4768-B703-5B15E114A733"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A137F8AA-6267-427F-AF71-B5450862BCC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherForecast/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A137F8AA-6267-427F-AF71-B5450862BCC1 - 10b9aa88e4ebfc6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherForecast.ContentView.body.getter : some"
+                  moduleName = "WeatherForecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robin/projects/WeatherForecast/WeatherForecast/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "A137F8AA-6267-427F-AF71-B5450862BCC1 - 2ede27ddf0fcc74d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(WeatherForecast.DayForecast, WeatherForecast.DayForecast, WeatherForecast.DayForecast)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(WeatherForecast.DayForecast, WeatherForecast.DayForecast, WeatherForecast.DayForecast)&gt;&gt;, WeatherForecast.DayForecast)&gt; in WeatherForecast.ContentView.body.getter : some"
+                  moduleName = "WeatherForecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robin/projects/WeatherForecast/WeatherForecast/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
